@@ -2,7 +2,7 @@ We support using AI (i.e., LLMs) as tools for coding. However, you remain
 responsible for any code you publish and we are responsible for any code we
 merge and release. We hold a high bar for all contributions to our projects.
 
-**AI** **should not be used to generate comments when communicating with
+**AI should not be used to generate comments when communicating with
 maintainers**. We expect comments on our projects to be written by humans. We
 may hide any comments that we believe are AI generated.
 
