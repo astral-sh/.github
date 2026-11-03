@@ -25,7 +25,7 @@ accompanied by human commentary explaining the relevance and implications of the
 context. Do not share long snippets.
 
 We understand that AI is useful when communicating as a non-native English
-speaker. If you are using AI to edit your comments for this purpose, please take
-the time to ensure it reflects your own voice and ideas. If using AI for
-translation, we recommend writing in your native language and including the AI
-translation in a quote block.
+speaker. If you are using AI to edit your comments for this purpose, you must:
+
+- Take the time to ensure it reflects your own voice and ideas.
+- Write in your native language, and include the AI translation in a quote block beneath it.
